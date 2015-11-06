@@ -8,7 +8,7 @@
 $ apm install atom-protractor
 ```
 
-Ou Settings ➔ Packages ➔ Search a'Protractor'
+Ou Settings ➔ Packages ➔ Procure por 'Protractor'
 
 ## Release Notes
 
@@ -17,4 +17,4 @@ Adicionado 'element'
 
 ## License
 
-MIT © [Fabricio Somini](http://github.com/zacharytamas)
+FMS © [Fabricio Somini]
