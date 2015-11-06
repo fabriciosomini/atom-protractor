@@ -8,7 +8,7 @@
 $ apm install atom-protractor
 ```
 
-Or Settings ➔ Packages ➔ Search for `jasmine`
+Ou Settings ➔ Packages ➔ Search a'Protractor'
 
 ## Release Notes
 
